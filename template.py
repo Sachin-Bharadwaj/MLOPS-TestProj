@@ -11,7 +11,7 @@ list_of_files=[
     "src/components/model_evaluation.py",
     "src/pipeline/__init__.py",
     "src/pipeline/training_pipeline.py",
-    "src/pipleline/predition_pipeline.py",
+    "src/pipeline/predition_pipeline.py",
     "src/utils/__init__.py"
     "src/utils/utils.py",
     "src/logger/logging.py",
